@@ -1,2 +1,2 @@
 # cmuc
-A C variant of the original muc
+A C alternative of the original muc
